@@ -19,7 +19,7 @@ playerX_change = 0
 
 # Enemy
 
-enemyImg = pygame.image.load('invader.png')
+enemyImg = pygame.image.load('enemy.png')
 enemyX = random.randint(0,800)
 enemyY = random.randint(50,150)
 enemyX_change = 0.1
